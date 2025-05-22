@@ -1,5 +1,5 @@
 # Harnessing Large Language Models for Text-Rich Sequential Recommendation
-This repository contains the source code for the paper `Harnessing Large Language Models for Text-Rich Sequential Recommendationt`, presented at WWW2024.
+This repository contains the source code for the paper `Harnessing Large Language Models for Text-Rich Sequential Recommendation`, presented at WWW2024.
 ```
 @inproceedings{10.1145/3589334.3645358,
 author = {Zheng, Zhi and Chao, WenShuo and Qiu, Zhaopeng and Zhu, Hengshu and Xiong, Hui},
